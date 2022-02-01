@@ -1,6 +1,6 @@
 # Oi 😃
 
-👨‍💻 Estudando: Python
+👨‍💻 Estudando: Go
 
 <div align="center">
   <a href="https://github.com/VitorOM2">
@@ -16,6 +16,8 @@
   <img align = "center" alt = "Vitor-php"    height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align = "center" alt = "Vitor-html"   height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align = "center" alt = "Vitor-css"    height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align = "center" alt = "Vitor-go"     height = "30" width = "40" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">" />
+
  </div> <br>
   
   # Contatos:

@@ -1,6 +1,11 @@
-# Oi 😃
+## Olá, me chamo Vitor
 
-👨‍💻 Estudando: Go
+Sou um desenvolvedor Python com experiência na área de Odoo, um sistema de gestão empresarial de código aberto altamente flexível e personalizável. Minha jornada na programação começou quando cursei o técnico na Etec Zona Leste e, desde então, venho aprimorando minhas habilidades para oferecer soluções de software de alta qualidade.
+
+### Sobre Mim
+- 🎓 Formado na Etec Zona Leste.
+- 📚 Estudante da Universidade Cidade de São Paulo (UNICID), buscando conhecimento contínuo em tecnologia.
+- 💼 Trabalho na empresa LLIÈGE, onde aplico meu conhecimento em Python e Odoo para criar soluções personalizadas para nossos clientes.
 
 <div align="center">
   <a href="https://github.com/VitorOM2">
